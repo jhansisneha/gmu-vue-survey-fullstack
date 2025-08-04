@@ -1,5 +1,9 @@
 # GMU Student Survey - Full Stack Application
 
+## 🎥 Demo Video
+
+[Click here to watch the demo](https://drive.google.com/file/d/1RFvPG1xXXfSrFzZqiu8g3N7WPPTrJAl0/view?usp=drive_link)
+
 This is a full-stack web application developed as part of SWE 642 coursework at George Mason University. The app collects feedback from prospective students after campus visits and stores survey responses in a backend database.
 
 - **Frontend**: Vue 3 with Vite
